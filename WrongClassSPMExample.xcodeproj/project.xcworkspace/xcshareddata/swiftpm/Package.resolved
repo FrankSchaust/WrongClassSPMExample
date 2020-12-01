@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Cuckoo",
+        "repositoryURL": "https://github.com/Brightify/Cuckoo",
+        "state": {
+          "branch": null,
+          "revision": "0ef473893cc068425c118d1cfe5629cbca1ef343",
+          "version": "1.4.1"
+        }
+      },
+      {
+        "package": "SPMImportWithMocks",
+        "repositoryURL": "https://github.com/FrankSchaust/SPMImportWithMocks",
+        "state": {
+          "branch": "master",
+          "revision": "5157865fcc4fb7af8a0b67e105c0c938a2814fb9",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
